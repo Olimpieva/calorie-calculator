@@ -1,5 +1,5 @@
 
-# crypto-ducks
+# calorie-calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Just the usual authentication and authorization of the React project.
